@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>About me</title>
+</head>
+<body>
+	<main>
+		<header><h1>Ashutosh Kumar</h1></header>
+		<nav>
+			<a href="">One</a>
+			<a href="">Two</a>
+			<a href="">Three</a>
+			<a href="">Four</a>
+		</nav>
+		<h2>Favorite food</h2>
+		<ul>
+			<li>Manchurian</li>
+			<li>Paneer handi</li>
+			<li>Cheese burger</li>
+			<li>Banana</li>
+		</ul>
+		<h2>Achievements</h2>
+		<label for="file"><b>Progress in this course(100%)</b></label>
+		<progress id="file" value="100" max="100"></progress><br>
+		<label for="file"><b>Progress in the specialization capstone(20%)</b></label>
+		<progress id="file" value="20" max="100"></progress><br>
+		<label for="file"><b>Progress in life goals(15%)</b></label>
+		<progress id="file" value="15" max="100"></progress>
+		<header>
+			<h2>More About Me</h2>
+		</header>
+		<details open>
+			<summary>My childhood</summary>
+			<p>I grew up in small a village of Darbhanga.I loved riding bicycle with my friends and i really miss those days badly</p>
+		</details>
+	</main>
+	<footer>
+		<p><img src=" http://www.intro-webdesign.com/images/newlogo.png" alt="new logo">This page was created by Ashutosh Kumar & Colleen van Lent. To learn more about web design,visit<a href=" http://intro-webdesign.com"> Intro to Web design</a></p>
+	</footer>
+
+</body>
+</html>
